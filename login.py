@@ -6,7 +6,7 @@ import urllib2
 import sys
 
 # Put here the url you want to do a bruteforce
-target_url = "http://172.16.143.128/dvwa/login.php"
+target_url = "http://174.36.198.223/dvwa/login.php"
 
 # Put here: the name of the element as the key and the value as the value ---- key - the name of the element and the value what you want to put on this input field. 
 # The last is the button element, the key is the "name" of the element and the value is the "type"
